@@ -125,7 +125,7 @@ var penelope = function() {
 
 	/*Typed js start*/
 	$("#typed").typed({
-		strings: ["Apenas em Deus<br/> eu confio;<br/>todos os outros devem<br/>trazer dados."],
+		strings: ["Conhecimento gera poder,<br/> mas só a inovação gera <br/> a competitividade.<br/> <br/> (Waldez Ludwig)"],
 		typeSpeed: 30,
 		backDelay: 750,
 		loop: false,
